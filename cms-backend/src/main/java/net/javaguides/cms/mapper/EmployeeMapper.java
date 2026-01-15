@@ -1,4 +1,4 @@
-package net.javaguides.mapper;
+package net.javaguides.cms.mapper;
 
 import net.javaguides.cms.dto.EmployeeDto;
 import net.javaguides.cms.entity.Employee;
